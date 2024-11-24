@@ -27,4 +27,6 @@ int main() {
     delete[] b;
     return 0;
 
+std::cout << "Egy ismerosom sem elerheto sajnos, epp jatekban vannak es en le szeretnem adni a git hazit. Remelem nem baj! :(" << std::endl;
+
 }
